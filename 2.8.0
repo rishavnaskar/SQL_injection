@@ -1,0 +1,4 @@
+Collecting psycopg2
+  Downloading psycopg2-2.8.6-cp38-cp38-win_amd64.whl (1.1 MB)
+Installing collected packages: psycopg2
+Successfully installed psycopg2-2.8.6
